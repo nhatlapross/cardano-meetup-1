@@ -1,42 +1,35 @@
-# Comprehensive Screenshot Guide
+## Task 1: Create your first wallet
+- Name of wallet (Lace/Nami):
+- Wallet address:
+- Screenshot of wallet creation:
 
-## Introduction
-This document serves as a comprehensive guide to navigating the Cardano Meetup 1 platform. Below you'll find step-by-step instructions along with screenshots to aid your understanding.
+## Task 2: Get testnet ADA (faucet)
+- Faucet used:
+- Amount received:
+- Transaction ID (URL):
+- Screenshot of receipt:
 
-## Step 1: Account Creation
-1. Go to the Sign Up page.  
-   ![Sign Up Page](screenshot_url_1)
+## Task 3: Send your first transaction
+- From address:
+- To address:
+- Transaction ID (URL):
+- Screenshot of transaction:
 
-2. Fill in the required fields:
-   - Username
-   - Email Address
-   - Password
-   
-   ![Account Creation Form](screenshot_url_2)
+## Task 4: Explore Blockfrost dashboard
+- Blockfrost dashboard URL:
+- Screenshot of dashboard:
+- Brief summary of what you explored:
 
-3. Click on the "Create Account" button.
-   ![Create Account Button](screenshot_url_3)
+## Task 5: Download Development Tools
+- Tools downloaded (list):
+- Screenshot of installation:
 
-## Step 2: Logging In
-1. Navigate to the Login page.
-   ![Login Page](screenshot_url_4)
+---
+### Submission Requirements
+- Screenshots for each step (wallets, faucet, transaction, dashboard, tools)
+- Transaction URLs for faucet and your first send
+- Wallet addresses (as applicable)
+- Summary of steps performed
 
-2. Enter your credentials and click on "Log In".
-   ![Login Credentials](screenshot_url_5)
-
-## Step 3: Dashboard Overview
-1. After logging in, you will be taken to your dashboard.
-   ![Dashboard Overview](screenshot_url_6)
-
-## Step 4: Joining a Meetup
-1. Look for the Meetup section on your dashboard.
-   ![Meetup Section](screenshot_url_7)
-
-2. Click on the desired Meetup to view details.
-   ![Meetup Details](screenshot_url_8)
-
-3. Click on "Join Meetup" to participate.
-   ![Join Meetup Button](screenshot_url_9)
-
-## Conclusion
-This guide should help you navigate through the various functionalities of the Cardano Meetup 1 platform. If you encounter any issues, don't hesitate to reach out for support.
+---
+**Feel free to fork this repository and submit your proof by opening an issue and uploading required screenshots, transaction URLs, and addresses as outlined above.**
